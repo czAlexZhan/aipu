@@ -1,0 +1,11 @@
+{
+  "name": "aipu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:czAlexZhan/aipu.git",
+  "author": "zhanxuwen <xuwen@voiceaitech.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
